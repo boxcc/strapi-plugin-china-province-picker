@@ -1,0 +1,30 @@
+{
+  "name": "strapi-plugin-china-province-picker",
+  "version": "0.0.1",
+  "description": "This plugin adds support of China Province data field type to Strapi custom field",
+  "strapi": {
+    "name": "china-province-picker",
+    "description": "Description of China Province Picker plugin",
+    "kind": "plugin",
+    "displayName": "China Province Picker"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@strapi/strapi": "^4.4.0"
+  },
+  "author": {
+    "name": "boxcc",
+    "email": "lmfmcbo@gmail.com",
+    "url": "https://github.com/boxcc"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
